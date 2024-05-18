@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_PRN211_FA23_1237778_NguyenQuocThien", "PE_PRN211_FA23_1237778_NguyenQuocThien\PE_PRN211_FA23_1237778_NguyenQuocThien.csproj", "{B399C135-C148-4C0A-8A66-8530D94E5DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunglasses_Repository", "Sunglasses_Data\Sunglasses_Repository.csproj", "{A6610820-0956-4034-9F19-C5523B08E15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B399C135-C148-4C0A-8A66-8530D94E5DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B399C135-C148-4C0A-8A66-8530D94E5DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B399C135-C148-4C0A-8A66-8530D94E5DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B399C135-C148-4C0A-8A66-8530D94E5DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6610820-0956-4034-9F19-C5523B08E15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6610820-0956-4034-9F19-C5523B08E15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6610820-0956-4034-9F19-C5523B08E15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6610820-0956-4034-9F19-C5523B08E15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25A4951-C65C-4A98-BF12-16BAF104F53C}
+	EndGlobalSection
+EndGlobal
